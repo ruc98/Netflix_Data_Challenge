@@ -1,5 +1,12 @@
 # Netflix Data Challenge
 This was a classroom data contest hosted on Kaggle by IIT Madras Computer Science Department as PRML data contest. Please follow this link for more details:- [Contest link](https://www.kaggle.com/c/prml19/data)
+
+## Authors
+
+Rahul Chakwate - AE16B005
+
+Vishwesh Ramanathan - CH16B024
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
